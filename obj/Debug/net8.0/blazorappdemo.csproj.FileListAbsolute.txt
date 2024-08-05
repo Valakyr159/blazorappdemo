@@ -1029,3 +1029,5 @@ C:\Users\javie\platzi\blazorappdemo\obj\Debug\net8.0\blazorappdemo.dll
 C:\Users\javie\platzi\blazorappdemo\obj\Debug\net8.0\refint\blazorappdemo.dll
 C:\Users\javie\platzi\blazorappdemo\obj\Debug\net8.0\blazorappdemo.pdb
 C:\Users\javie\platzi\blazorappdemo\obj\Debug\net8.0\ref\blazorappdemo.dll
+C:\Users\javie\platzi\blazorappdemo\obj\Debug\net8.0\blazorappdemo.sourcelink.json
+C:\Users\javie\platzi\blazorappdemo\obj\Debug\net8.0\scopedcss\Pages\Products\Products.razor.rz.scp.css
