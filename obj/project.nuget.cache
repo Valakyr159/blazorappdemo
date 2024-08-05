@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e0BxeOsemM8=",
+  "dgSpecHash": "obw14wql4mM=",
   "success": true,
   "projectFilePath": "C:\\Users\\javie\\platzi\\blazorappdemo\\blazorappdemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\javie\\.nuget\\packages\\blazored.toast\\4.2.1\\blazored.toast.4.2.1.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.7\\microsoft.aspnetcore.authorization.8.0.7.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.7\\microsoft.aspnetcore.components.8.0.7.nupkg.sha512",
     "C:\\Users\\javie\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.7\\microsoft.aspnetcore.components.analyzers.8.0.7.nupkg.sha512",
